@@ -14,10 +14,10 @@ h1, h2, h3 {
     letter-spacing: 1px;
 }
 .avatar-container, .ratings-row, .ratings-container, .col-sm-12, .col-sm-4 {
-    background-color: #C080FF ;
+    background-color: #d99dda ;
     border-radius: 20px;
     margin-bottom: 10px;
-    border: 2px solid red; /* contour rouge */
+    border: 1px solid red; /* contour rouge */
 }
 .container {
     max-width: none !important;
