@@ -14,7 +14,7 @@ h1, h2, h3 {
     letter-spacing: 1px;
 }
 .avatar-container, .ratings-row, .ratings-container, .col-sm-12, .col-sm-4 {
-    background-color: #d99dda ;
+    background-color: #d49cea40 ;
     border-radius: 20px;
     margin-bottom: 10px;
     border: 1px solid red; /* contour rouge */
