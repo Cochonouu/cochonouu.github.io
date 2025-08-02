@@ -9,7 +9,7 @@ body {
 }
 h1, h2, h3 {
     font-family: 'Bangers', cursive;
-    color: rgb(147, 165, 7);
+    color: #ff44ef;
     text-shadow: 1px 1px 3px #000;
     letter-spacing: 1px;
 }
@@ -38,7 +38,7 @@ h1, h2, h3 {
   z-index: 1;
 }
 .avatar-container .username span {
-  color: #93a507;
+  color: #ff44ef;
   position: relative;
   z-index: 2;
   transition: all 0.5s ease;
