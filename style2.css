@@ -17,7 +17,7 @@ h1, h2, h3 {
     background-color: #d49cea40 ;
     border-radius: 20px;
     margin-bottom: 10px;
-    border: 1px solid red; /* contour rouge */
+    border: 1px #b700ff; /* contour rouge */
 }
 .container {
     max-width: none !important;
